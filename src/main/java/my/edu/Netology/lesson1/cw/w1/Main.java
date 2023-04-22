@@ -4,6 +4,8 @@ import my.edu.Netology.RandomArray;
 
 /**
  * Алгоритм. Сортировка массива - обычная
+ * Оценка сложности - O(n^2)
+ * Оценка памяти - O(1)
  */
 public class Main {
     private static final int ARRAY_LENGTH = 10;
