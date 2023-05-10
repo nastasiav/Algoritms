@@ -4,8 +4,12 @@
 
 ### You can contact me by:
 
-Author: Anastasiya Baeva.
+**Author**: Anastasiya Baeva.
 
-email: baeva.asya@gmail.com
+**email**: baeva.asya@gmail.com
 
-telegram: @nast_a_sia
+**telegram**: @nast_a_sia
+
+<br></br>
+Источники задач:
+* [Нетология](src/main/java/my/edu/Netology/README.md)
