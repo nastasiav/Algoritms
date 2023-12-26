@@ -1,8 +1,8 @@
-package my.edu.Netology.lesson1.cw.w4;
+package my.edu.netology.lesson1.cw.w4;
 
 public class Main {;
     public static void main(String[] args) {
-        my.edu.Netology.lesson1.cw.w1.Main mainW1 = new my.edu.Netology.lesson1.cw.w1.Main();
+        my.edu.netology.lesson1.cw.w1.Main mainW1 = new my.edu.netology.lesson1.cw.w1.Main();
 
         Integer[] randomArray = {10, 12, 14, 13, 11, 1, 6, 12, 5, 5};
 

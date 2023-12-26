@@ -1,4 +1,4 @@
-package my.edu.Netology;
+package my.edu.netology;
 
 import java.util.Random;
 
