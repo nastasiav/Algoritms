@@ -1,6 +1,6 @@
-package my.edu.Netology.lesson1.cw.w2;
+package my.edu.netology.lesson1.cw.w2;
 
-import my.edu.Netology.RandomArray;
+import my.edu.netology.RandomArray;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class Main {
         Integer[] array = new RandomArray().setRandomIntegerArray(ARRAY_SIZE);
         Scanner scanner = new Scanner(System.in);
 
-        my.edu.Netology.lesson1.cw.w1.Main mainW1 = new my.edu.Netology.lesson1.cw.w1.Main();
+        my.edu.netology.lesson1.cw.w1.Main mainW1 = new my.edu.netology.lesson1.cw.w1.Main();
         mainW1.myPrintArray(array);
         mainW1.mySortArray(array, true);
         mainW1.myPrintArray(array);

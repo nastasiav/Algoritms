@@ -12,4 +12,4 @@
 
 <br></br>
 Источники задач:
-* [Нетология](src/main/java/my/edu/Netology/README.md)
+* [Нетология](src/main/java/my/edu/netology/README.md)

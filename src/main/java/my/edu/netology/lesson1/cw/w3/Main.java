@@ -1,11 +1,11 @@
-package my.edu.Netology.lesson1.cw.w3;
+package my.edu.netology.lesson1.cw.w3;
 
-import my.edu.Netology.RandomArray;
+import my.edu.netology.RandomArray;
 
 public class Main {
     private static final int SIZE = 15;
     public static void main(String[] args) {
-        my.edu.Netology.lesson1.cw.w1.Main mainW1 = new my.edu.Netology.lesson1.cw.w1.Main();
+        my.edu.netology.lesson1.cw.w1.Main mainW1 = new my.edu.netology.lesson1.cw.w1.Main();
 
         Integer[] randomArray = new RandomArray().setRandomIntegerArray(SIZE);
         mainW1.myPrintArray(randomArray);

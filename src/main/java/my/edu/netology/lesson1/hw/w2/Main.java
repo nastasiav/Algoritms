@@ -1,4 +1,4 @@
-package my.edu.Netology.lesson1.hw.w2;
+package my.edu.netology.lesson1.hw.w2;
 
 public class Main {
     public static void main(String[] args) {

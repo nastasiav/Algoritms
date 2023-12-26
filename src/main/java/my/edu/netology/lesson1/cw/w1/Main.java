@@ -1,6 +1,6 @@
-package my.edu.Netology.lesson1.cw.w1;
+package my.edu.netology.lesson1.cw.w1;
 
-import my.edu.Netology.RandomArray;
+import my.edu.netology.RandomArray;
 
 public class Main {
     private static final int ARRAY_LENGTH = 10;
