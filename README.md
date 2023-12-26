@@ -13,3 +13,4 @@
 <br></br>
 Источники задач:
 * [Нетология](src/main/java/my/edu/netology/README.md)
+* [Грокаем алгоритмы](src/main/java/my/edu/groc/book/README.md)
