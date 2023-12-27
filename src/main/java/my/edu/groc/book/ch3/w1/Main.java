@@ -2,6 +2,16 @@ package my.edu.groc.book.ch3.w1;
 
 public class Main {
     public static void main(String[] args) {
+        countDown(5);
+    }
 
+    private static void countDown(int i) {
+        System.out.print(i + " ");
+        if (i == 1) {
+            return;
+        }
+        else {
+            countDown(i - 1);
+        }
     }
 }
