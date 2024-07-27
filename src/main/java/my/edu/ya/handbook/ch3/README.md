@@ -12,4 +12,6 @@
 
 [Задачи](https://new.contest.yandex.ru/48556/statistics)
 
-## 
+## Жадные алгоритмы
+
+[Задачи](https://new.contest.yandex.ru/48557/statistics)
